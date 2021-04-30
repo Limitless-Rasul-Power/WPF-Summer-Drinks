@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\bin\Debug\WpfApp Buying App.exe.config
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\bin\Debug\WpfApp Buying App.exe
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\bin\Debug\WpfApp Buying App.pdb
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp Buying App.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\Views\BuyWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\Views\ShowHistoryWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\Views\StartWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp Buying App_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp Buying App_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\App.baml
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\Views\BuyWindow.baml
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\Views\ShowHistoryWindow.baml
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\Views\StartWindow.baml
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp Buying App.g.resources
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp_Buying_App.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp Buying App.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp Buying App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp Buying App.exe
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\WpfApp Buying App.pdb
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\Dictionaries\ButtonsDictionary.baml
+C:\Users\Admin\source\repos\WpfApp Buying App\WpfApp Buying App\obj\Debug\Dictionaries\TextBlocksDictionary.baml
